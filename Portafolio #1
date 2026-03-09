@@ -1,1 +1,6 @@
-
+cd Ecritorio/Scripts/hackingtool/Scripts/web2attack
+./web2console
+cd w2a
+cd core
+sudo nano core.py
+"Abri el archivo code.py para editar y corregir el error, ya que edite la linea de codigo numero 4, la cual era; from imp import relod, imp era una funcion de python la cual fue eliminada ya que se veia como inecesaria, y se cambio por la usada actualmente 'importlib'"
