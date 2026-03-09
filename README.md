@@ -1,2 +1,0 @@
-- 👋 Hi, I’m Leynheker Joshabat
-- 👀 I’m interested in Programing
